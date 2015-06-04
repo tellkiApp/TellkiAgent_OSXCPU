@@ -1,1 +1,1 @@
-Tellki OS X CPU Monitor
+Tellki OSX CPU Monitor
